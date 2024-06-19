@@ -1,0 +1,20 @@
+{
+  "name": "pdfreadtest",
+  "version": "1.0.0",
+  "description": "a simple pdf read file content cli for log or print out.",
+  "main": "./read.js",
+  "type": "module",
+  "bin": "./read.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "pdfreader": "^3.0.2"
+  },
+  "engines": {
+    "node": "20"
+  }
+}
